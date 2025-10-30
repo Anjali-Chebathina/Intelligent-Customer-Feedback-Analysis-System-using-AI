@@ -1,8 +1,35 @@
 # 💬 Intelligent Customer Feedback Chatbot
+## 🏢 Company
+**Flikt Technology Web Solution Pvt. Ltd.**
 
-This project is a **Streamlit-based chatbot** that analyzes customer
-feedback and answers questions about product reviews, sentiment trends,
-and overall satisfaction.
+This project was developed and submitted as part of an internship under **Flikt Technology Web Solution**.  
+It demonstrates real-world application of **AI, NLP, and Streamlit** in analyzing and interacting with customer feedback data.
+
+---
+
+## 🧾 Project Description
+The **Intelligent Customer Feedback Chatbot** is an interactive AI-based system built using **Streamlit** and **Hugging Face Transformers**.  
+It helps users upload customer feedback datasets (CSV files) and interactively query insights such as:
+
+- Positive or negative feedback trends  
+- Product comparisons  
+- Rating summaries  
+- Customer satisfaction levels  
+- Review-based analysis  
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+<img width="1919" height="969" alt="Screenshot 2025-10-30 201531" src="https://github.com/user-attachments/assets/2eefaf5e-0835-4368-9f6b-d42d3b680404" />
+
+
+### 📂 Upload Feedback Section
+<img width="1323" height="715" alt="Screenshot 2025-10-30 202104" src="https://github.com/user-attachments/assets/ea668190-60b8-47a8-9c37-8633eb4013ab" />
+
+
+### 💬 Chatbot Interaction
+<img width="1909" height="960" alt="Screenshot 2025-10-30 203217" src="https://github.com/user-attachments/assets/3b114e0e-55ec-4155-8f29-30e11a631570" />
+
 
 ## 🚀 Features
 
@@ -21,6 +48,7 @@ and overall satisfaction.
 -   **Streamlit**
 -   **Pandas**
 -   **Transformers (Hugging Face pipeline)**
+
 
 ## ⚙️ How to Run
 
@@ -58,21 +86,36 @@ and overall satisfaction.
   Speaker        Amazing sound quality!   5
   Light          Poor build quality       2
 
-## 💡 Future Improvements
+##  📊 Example Questions for Chatbot
+-----------------------------------------------
 
--   Integrate real **sentiment analysis** using Hugging Face models.
--   Add **conversation memory** for a more natural chat experience.
--   Visualize feedback insights with **charts**.
+You can ask the chatbot:
 
-## 🤝 Contributing
+“Which product got the best rating?”
 
-Feel free to fork this repo, improve the chatbot logic, and create a
-pull request!
+“Show me negative reviews.”
 
+“What is the average rating?”
 
+“Compare the speakers and chandeliers.”
+
+“Are most customers satisfied?”
+
+##  🙌 Acknowledgements
+--------------------------------------------
+
+- Flikt Technology Web Solution Pvt. Ltd. for providing guidance and support.
+
+- Hugging Face for their pre-trained NLP models.
+
+- Streamlit for the rapid web app framework.
 
 ------------------------------------------------------------------------
 
 ### 🧑‍💻 Author
 
 **Anjali Chebathina**
+
+📧 Email: anjalichebathina.com
+
+
